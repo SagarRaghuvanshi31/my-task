@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_task=self.webpackChunkmy_task||[]).push([[4871],{538:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/my-task/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

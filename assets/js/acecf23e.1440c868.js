@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_task=self.webpackChunkmy_task||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/my-task/blog","blogTitle":"Blog","authorsListPath":"/my-task/blog/authors"}')}}]);
